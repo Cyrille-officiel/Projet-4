@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -723,7 +723,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #F3976C!important;
 }
 
 h4 {
@@ -774,8 +774,11 @@ h4 {
     background-color: #F3976C;
 }
 
+.titre1 {
+    color: #f36cab;
+}
 .tc-white {
-    color: #F3976C!important;
+    color: #080808!important;
 }
 
 .btn-atomic-tangerine {
