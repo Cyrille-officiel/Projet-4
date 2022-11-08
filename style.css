@@ -695,7 +695,7 @@ p {
     color: #f3b962!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700;
 }
 
@@ -723,7 +723,7 @@ h3 {
 }
 
 h1 {
-    color: #F3976C!important;
+    color: #f39b72!important;
 }
 
 h4 {
@@ -775,17 +775,22 @@ h4 {
 }
 
 .titre1 {
-    color: #f36cab;
+    background: #c27956!important;
+    color: #FFFFFF!important;
+    
 }
 .tc-white {
     color: #080808!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #814531;
     color: #FFFFFF!important;
 }
 
+.black {
+    color  : #1C1C1C !important ;
+}
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #FFFFFF!important;
@@ -825,7 +830,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
